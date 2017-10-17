@@ -1,0 +1,3 @@
+Git diff shows uncommited differencies between my local and my remote branch. 
+
+Git status show status of local repository, such as untracked files, changes which will be committed etc. It shows current branch too.
