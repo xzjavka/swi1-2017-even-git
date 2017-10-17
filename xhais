@@ -1,0 +1,4 @@
+some random line
+
+git diff -> ukazuje zmeny v souborech
+git status -> ukazuje, jake soubory byly zmeneny a v jakem jsou stavu (untracked, changed, staged)
