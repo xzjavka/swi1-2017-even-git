@@ -87,7 +87,7 @@ Valovič Roman
 Voráč Tomáš
 
 
-Všianský Richard
+rvsia
 
 
 Zjavka Marek

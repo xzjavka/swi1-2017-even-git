@@ -1,0 +1,8 @@
+Ahoj světe
+Hello world
+Salut monde!
+
+
+
+Diff : zobrazuje vzniklé rozdíly v souborech, v tomto případě mé jméno za login
+status: zobrazuje soubory, které byly modifikovány a které byly vytvořeny, případně odebrány
