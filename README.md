@@ -84,7 +84,7 @@ Suss Martin
 Valovič Roman
 
 
-Voráč Tomáš
+TomasVorac
 
 
 Všianský Richard
