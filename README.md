@@ -36,8 +36,7 @@ Remember how to update your repo from original repo:
 Boček Lukáš
 
 
-Čičmancová Alexandra
-
+xcicmanc
 
 Dobrík Jakub
 
