@@ -1,0 +1,4 @@
+random line :|
+
+Command git diff shows changes between commits (changed lines...).
+Command git status shows "state" of files and is mainly used for checking, which files are "added" and are ready to be commited. 
