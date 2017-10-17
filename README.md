@@ -54,7 +54,7 @@ Karabin Štefan
 Kousal Dominik
 
 
-Král David
+kraldavi
 
 
 Křeček Daniel
