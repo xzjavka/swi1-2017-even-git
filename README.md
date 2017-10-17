@@ -57,7 +57,7 @@ Kousal Dominik
 Král David
 
 
-Křeček Daniel
+KrecekDaniel
 
 
 Mudronček Ivan
