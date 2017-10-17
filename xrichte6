@@ -1,0 +1,5 @@
+Ano, tohle je opravdový a skutečný testovací text potvrzující, že Jan Richter byl schopný vykonat základní instrukce. :-)
+
+Git status projde všechny soubory v lokální složce repozitáře a ohlásí všechny změněné, přidané i nově vytvořené soubory, které doposud nejsou staged - pro účely očekávaného následujícího commitu.
+
+Git diff vybere modified soubory, které zatím nejsou staged, a vypíše jejich rozdílné části vůči poslednímu commitu na remote serveru.

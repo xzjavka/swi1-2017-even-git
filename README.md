@@ -66,7 +66,7 @@ Mudronček Ivan
 Plišková Tereza
 
 
-Richter Jan
+CZJanRichter
 
 
 Siebert Martin
