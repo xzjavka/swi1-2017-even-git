@@ -80,7 +80,7 @@ mar-sss
 oslegl
 
 
-Valovič Roman
+xvalovic@mendelu.cz
 
 
 TomasVorac
