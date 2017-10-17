@@ -1,4 +1,4 @@
-# swi1-2017-even-git
+﻿# swi1-2017-even-git
 
 Main goal is to add a new text file and make small change in README.md
 
@@ -50,7 +50,7 @@ Hais Vratislav
 StefanKarabin
 
 
-Kousal Dominik
+domcucha
 
 
 Král David
