@@ -65,7 +65,7 @@ Mudronček Ivan
 terezapliskova
 
 
-Richter Jan
+CZJanRichter
 
 
 Siebert Martin
