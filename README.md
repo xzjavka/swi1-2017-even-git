@@ -77,7 +77,7 @@ Slunský Stanislav
 Suss Martin
 
 
-Šlegl Ondřej
+oslegl
 
 
 Valovič Roman
