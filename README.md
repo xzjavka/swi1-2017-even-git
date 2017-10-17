@@ -60,7 +60,7 @@ Král David
 Křeček Daniel
 
 
-Mudronček Ivan
+xmudronc
 
 
 Plišková Tereza
