@@ -33,7 +33,7 @@ Remember how to update your repo from original repo:
 
 
 
-Boček Lukáš
+Bocooor
 
 
 Čičmancová Alexandra
