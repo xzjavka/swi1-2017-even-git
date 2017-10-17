@@ -1,0 +1,3 @@
+prvni cviko na git
+git status - lists all new or modified files to be commimted
+git diff - shows fiel diffrences not yet staged
