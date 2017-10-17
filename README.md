@@ -42,7 +42,7 @@ Boček Lukáš
 Dobrík Jakub
 
 
-Exner Michal
+Cboosa (Cboosa@gmail.com)
 
 
 Hais Vratislav

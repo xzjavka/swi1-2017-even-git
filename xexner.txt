@@ -1,0 +1,4 @@
+This is random line :]
+
+Git diff shows us changes that we made in comparssion to our upstream or origin branch and takes commits in place.
+Git status on the other hand tells us what changes we made on our local git repository (also shows untracked files).
