@@ -1,0 +1,4 @@
+Lorem Ipsum...
+
+git diff --> shows us the differences which have been made.
+git status --> show us new or modified files from previous commit
