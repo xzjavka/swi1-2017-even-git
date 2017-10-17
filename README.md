@@ -86,7 +86,7 @@ xvalovic@mendelu.cz
 TomasVorac
 
 
-Všianský Richard
+rvsia
 
 
 xzjavka
