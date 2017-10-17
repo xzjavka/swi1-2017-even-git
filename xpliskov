@@ -1,0 +1,2 @@
+git diff shows file diferences between staging and the last file versioning
+git status lists all new r modified files to be committed

@@ -62,7 +62,7 @@ Křeček Daniel
 Mudronček Ivan
 
 
-Plišková Tereza
+terezapliskova
 
 
 Richter Jan
