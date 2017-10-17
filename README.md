@@ -72,7 +72,7 @@ Richter Jan
 Siebert Martin
 
 
-Slunský Stanislav
+stanas
 
 
 Suss Martin
@@ -91,6 +91,5 @@ Všianský Richard
 
 
 Zjavka Marek
-
 
 
