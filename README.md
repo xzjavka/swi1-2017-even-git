@@ -71,7 +71,7 @@ CZJanRichter
 matistuk
 
 
-Slunský Stanislav
+stanas
 
 
 mar-sss
@@ -90,6 +90,5 @@ Všianský Richard
 
 
 xzjavka
-
 
 
