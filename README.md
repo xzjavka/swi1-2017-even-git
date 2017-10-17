@@ -81,7 +81,7 @@ Suss Martin
 Šlegl Ondřej
 
 
-Valovič Roman
+xvalovic@mendelu.cz
 
 
 Voráč Tomáš
