@@ -7,4 +7,9 @@ Tomas
 
 
 
+
 Vorac
+
+git diff - ukazuje zmenene rozdili
+
+git status - ukazuje zmenene soubory
