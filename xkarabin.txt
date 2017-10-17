@@ -1,0 +1,4 @@
+git diff
+Shows file differencesnot yet staged
+git status
+List all new or modified files to be commited
