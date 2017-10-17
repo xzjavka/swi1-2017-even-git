@@ -1,0 +1,4 @@
+xslunsky
+
+git diff - ukazuje, co se změnilo (- co se odebírá, + co se přidává)
+git status - ukazuje, jestli byly soubory potvrzené a nahrané
