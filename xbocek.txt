@@ -1,0 +1,9 @@
+Pridani nahodneho radku.
+git diff
+ - ukazuje rozdil pred a po zmene
+ - "-" co bylo odebrano
+ - "+" co bylo pridano
+
+git status
+ - zjistovani stavu jednotlivych souboru
+ - napovida co mame delat
