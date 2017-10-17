@@ -53,7 +53,7 @@ StefanKarabin
 domcucha
 
 
-Král David
+kraldavi
 
 
 Křeček Daniel
