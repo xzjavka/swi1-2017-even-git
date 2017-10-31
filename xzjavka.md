@@ -10,7 +10,7 @@ Your favorite city: Rome
 
 Your favorite vegetable: tomatoe 
 
-Your favorite color: ...
+Your favorite color: blue
 
 Your favorite icecream: ...
 
