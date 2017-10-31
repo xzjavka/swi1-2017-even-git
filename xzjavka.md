@@ -4,11 +4,11 @@ Second change.
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: Apple
 
 Your favorite city: ...
 
-Your favorite vegetable: ...
+Your favorite vegetable: tomatoe 
 
 Your favorite color: ...
 
