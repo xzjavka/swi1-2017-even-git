@@ -4,7 +4,7 @@ Second change.
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: Apple
 
 Your favorite city: ...
 
