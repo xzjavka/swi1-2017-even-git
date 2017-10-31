@@ -8,7 +8,7 @@ Your favorite fruit: Apple
 
 Your favorite city: Rome
 
-Your favorite vegetable: ...
+Your favorite vegetable: tomatoe 
 
 Your favorite color: ...
 
