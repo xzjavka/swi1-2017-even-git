@@ -1,94 +1,42 @@
-﻿# swi1-2017-even-git
+# swi1-2017-odd-git
 
-Main goal is to add a new text file and make small change in README.md
+Everybody open the file named after their github login.
 
-Remember how to update your repo from original repo:
-`git fetch upstream` 
-`git merge --ff-only upstream/master`
-`git push`
+Read the instructions carefully please :).
 
-* Create a new branch 
+Every instruction should be one commit (this time).
 
-* Switch to a new branch
+  * so your first commit would just be deleting a line
+  * and your second commit would change the other line
+  * and so on :)
 
-* Change your name in README.md to your GitHub nick and add a text file that has your school login as name and contains some random line
+---
 
-* Try those two commands `git diff` `git status` and write what they do in two sentences to your text file. 
+After you're done there..
 
-* Add changed files 
+1. Create a PR.
 
-  * `git add [file's path]`(may add multiple files at once) or `git add -A` (adds all changed files)
+1. You should have a PR with 8 commits, **not** on your master branch - if not, try again :).
 
-* Commit changes
+1. tell us - wait for a conflict
 
-  * `git commit -m "commit message"`
+1. update your branch & resolve conflicts
 
-* Push your branch
+1. reorder commits so that food-related commits are together
 
-  * `git push origin [branch's name]`
+1. squash food-related commits into one
 
-* Create a PR
+1. delete commit with your favorite color
 
-  * Go to [upstream repo](https://github.com/RoadToSoftwareFactory/swi1-2017-even-git) 
+1. rename commit with your favorite season to something in UPERCASE
 
+1. edit commit with your favority city so it's Helsinki 
 
+1. when done mention one of instructors in a comment (if you are the first one to do everything correctly you will get a GitHub code for free t-shirt via Gitter)
 
-Bocooor
+Everyone gets a sticker :octocat:
 
+---
 
-xcicmanc
-
-Barty649
-
-
-Cboosa (Cboosa@gmail.com)
-
-
-VratislavHais
-
-
-StefanKarabin
-
-
-domcucha
-
-
-kraldavi
-
-
-KrecekDaniel
-
-
-xmudronc
-
-
-terezapliskova
-
-
-CZJanRichter
-
-
-matistuk
-
-
-stanas
-
-
-mar-sss
-
-
-oslegl
-
-
-xvalovic@mendelu.cz
-
-
-TomasVorac
-
-
-rvsia
-
-
-xzjavka
-
+What to do when you mess up: http://ohshitgit.com/
 
